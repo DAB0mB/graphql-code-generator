@@ -1,10 +1,9 @@
 {
   "docs": {
     "Getting Started": [
-      "getting-started/index"
-    ],
-    "CLI": [
-      "cli/index"
+      "getting-started/index",
+      "getting-started/cli-commands",
+      "getting-started/codegen-config"
     ],
     "Predefined Templates": [
       "templates/index",
